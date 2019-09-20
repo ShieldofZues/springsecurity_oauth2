@@ -11,6 +11,6 @@ http://localhost:8080/api/admin/hello?access_token=请求1成功返回的access_
 3.更新token
 http://localhost:8080/oauth/token?refresh_token=请求1成功返回的refresh_token&client_secret=123&client_id=password&grant_type=refresh_token
 
-![Alt text](图片链接 "optional title")
+![https://github.com/ShieldofZues/springsecurity_oauth2/blob/master/2121.png](https://github.com/ShieldofZues/springsecurity_oauth2/blob/master/2121.png)
 
 
